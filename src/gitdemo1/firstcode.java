@@ -7,6 +7,7 @@ public class firstcode {
 
 		System.out.println("Welcome to Git");
 		System.out.println("Welcome to Git");
+		System.out.println("Welcome to Git");
 	}
 
 }
